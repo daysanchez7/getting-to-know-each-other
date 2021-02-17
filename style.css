@@ -1,0 +1,73 @@
+body {background-color: lightpink;}
+
+h1 {text-align: center;
+    color: rgb(173, 28, 173);
+    font-size: 50px;
+    font-family: "Lucida Handwriting", cursive;}
+.p1 {text-align: center; 
+    color: white;
+    font-size: 30px;
+    font-family: "Times New Roman", serif;}
+
+.p2 {text-align: center; 
+    color: white;
+    font-size: 18px;
+    font-family: "Times New Roman", serif;}
+
+img {display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+h2 {text-align: center;
+    color: lightslategray;
+    font-size: 30px;
+    font-family: "Monaco", monospace;}
+
+.p3 {text-align: center; 
+    color: white;
+    font-size: 20px;
+    font-family: "Times New Roman", serif;}
+    
+.section1 {text-align: center;
+        color: lightslategray; 
+        font-size: 24px;
+        font-family: "Lucida Console", monospace;}
+
+.ul1 {text-align: center;
+    list-style-position: inside;
+    color: white;
+    list-style-type: square; 
+    font-size: 18px;
+    font-family: "Times New Roman", serif;}
+
+.section2 {text-align: center;
+    color: lightslategray; 
+    font-size: 24px;
+    font-family: "Lucida Console", monospace;}
+
+.p4 {text-align: center; 
+    color: white;
+    font-size: 20px;
+    font-family: "Times New Roman", serif;}
+
+.section3 {text-align: center;
+    color: lightslategray; 
+    font-size: 24px;
+    font-family: "Lucida Console", monospace;}
+
+.ul2 {text-align: center;
+    list-style-position: inside;
+    color: white;
+    list-style-type: square; 
+    font-size: 18px;
+    font-family: "Times New Roman", serif;}
+    
+.section4 {text-align: center;
+    color: lightslategray; 
+    font-size: 24px;
+    font-family: "Lucida Console", monospace;}
+
+.p5 {text-align: center; 
+    color: white;
+    font-size: 20px;
+    font-family: "Times New Roman", serif;}
